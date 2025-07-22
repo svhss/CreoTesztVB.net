@@ -1,7 +1,9 @@
 Windows+R
-rundll32 sysdm.cpl,EditEnvironmentVariables
+
+rundll32 sysdm.cpl,EditEnvironmentVariable
 
 variable name: pro_comm_msg_Exe
+
 variable value: "C:\Program Files\PTC\ .... \Common Files\x86e_win64\obj\pro_comm_msg.exe"
 
 
